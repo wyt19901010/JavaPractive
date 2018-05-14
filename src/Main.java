@@ -5,5 +5,8 @@ public class Main {
         Student stu = new Student("123","No2");
         stu.introuduce();
         stu.getClass1();
+
+
+
     }
 }

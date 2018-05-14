@@ -7,6 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/useinner" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/innerclass" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/anonymousclass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/threadsleep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multithreads" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simplecopier" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
