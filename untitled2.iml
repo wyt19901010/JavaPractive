@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/threadsleep" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/multithreads" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/simplecopier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/waitnotify" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

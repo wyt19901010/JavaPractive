@@ -26,5 +26,6 @@ public class Notifier implements Runnable {
 		}
 		// 唤醒结束后，向控制台输出下一行文字。
 		System.out.println(name + "：notify线程结束");
+		System.out.println(name+"唤起线程结束");
 	}
 }

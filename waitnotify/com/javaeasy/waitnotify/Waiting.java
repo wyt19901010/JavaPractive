@@ -24,5 +24,6 @@ public class Waiting implements Runnable {	// 实现了Runnable接口的类
 		}
 		// 线程一旦被唤醒，将继续执行代码，向控制台输出下一行文字
 		System.out.println(name+"：线程被唤醒了。");
+		System.out.println(name+"挂起线程结束");
 	}
 }
